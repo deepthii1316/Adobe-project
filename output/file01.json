@@ -1,0 +1,80 @@
+{
+  "title": "Understanding Artificial Intelligence",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Understanding Artificial Intelligence",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Artificial Intelligence (AI) is the simulation of human intelligence in machines.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Types of AI",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Narrow AI",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Narrow AI is designed to perform a specific task.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "General AI",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "General AI would outperform humans at nearly every cognitive task.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Applications of AI",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Healthcare",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "AI is used to diagnose diseases and suggest treatments.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Finance",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "AI helps with fraud detection and algorithmic trading.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Conclusion",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "AI continues to evolve and impact multiple industries.",
+      "page": 1
+    }
+  ]
+}
