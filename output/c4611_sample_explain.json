@@ -1,0 +1,225 @@
+{
+  "title": "PDF BOOKMARK SAMPLE",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Sample Date:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "May 2001",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Prepared by:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Accelio Present Applied Technology",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Created and Tested Using:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Accelio Present Central 5.4",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Accelio Present Output Designer 5.4",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Features Demonstrated:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Overview",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "This sample consists of a simple form containing four distinct fields. The data file contains eight",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "separate records.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "By default, the data file will produce a PDF file containing eight separate pages. The selective",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "use of the bookmark file will produce the same PDF with a separate pane containing",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "The left pane displays the available bookmarks for this PDF. You may need to enable the",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Note that the index has been sorted according to the specification in the bookmark file, and that",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Sample Data File",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Sample Bookmark File",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "The example bookmark file includes three distinct sections:",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Sample Files",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "This sample package contains:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Filename",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "ap_bookmark.IFD",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "The template design.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "ap_bookmark.mdf",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "ap_bookmark.dat",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "ap_bookmark.bmk",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "ap_bookmark.pdf",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Sample PDF output.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "ap_bookmark_doc.pdf",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Deploying the Sample",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "To deploy this sample in your environment:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "1. Open the template design ap_bookmark.IFD in Output Designer and recompile the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2. Modify the -z option in the ^job command in the data file ap_bookmark.dat to:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Identify the section for which to generate bookmarks, if desired, using the -abms",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "command.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "For example,",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "To bookmark by …",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Use the command line parameter …",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Invoices",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Type",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Amount",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "3. Place the accompanying files in directories consistent with your implementation:",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Running the Sample",
+      "page": 4
+    }
+  ]
+}

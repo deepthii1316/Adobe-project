@@ -2,28 +2,13 @@
   "title": "Introduction",
   "outline": [
     {
-      "level": "H2",
-      "text": "This section introduces AI...",
-      "page": 1
-    },
-    {
       "level": "H1",
       "text": "What is AI?",
       "page": 1
     },
     {
       "level": "H2",
-      "text": "AI is the simulation of human intelligence...",
-      "page": 1
-    },
-    {
-      "level": "H2",
       "text": "History of AI",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "AI started in the 1950s with symbolic reasoning...",
       "page": 2
     }
   ]

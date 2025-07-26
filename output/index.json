@@ -1,0 +1,20 @@
+{
+  "title": "AUDIENCE",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Copyright © tutorialspoint.com",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Selenium is an open-source tool that is used for test automation. It is licensed under Apache",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "License 2.0. Selenium is a suite of tools that helps in automating only web applications. This",
+      "page": 1
+    }
+  ]
+}
