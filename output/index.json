@@ -1,34 +1,19 @@
 {
-  "title": "SELENIUM TUTORIAL",
+  "title": "AUDIENCE",
   "outline": [
     {
-      "level": "H1",
-      "text": "SELENIUM TUTORIAL",
+      "level": "H3",
+      "text": "Copyright \u00a9 tutorialspoint.com",
       "page": 1
     },
     {
       "level": "H1",
-      "text": "SELENIUM TUTORIAL",
+      "text": "Selenium is an open-source tool that is used for test automation. It is licensed under Apache",
       "page": 1
     },
     {
       "level": "H1",
-      "text": "AUDIENCE",
-      "page": 1
-    },
-    {
-      "level": "H1",
-      "text": "AUDIENCE",
-      "page": 1
-    },
-    {
-      "level": "H1",
-      "text": "PREREQUISITES",
-      "page": 1
-    },
-    {
-      "level": "H1",
-      "text": "PREREQUISITES",
+      "text": "License 2.0. Selenium is a suite of tools that helps in automating only web applications. This",
       "page": 1
     }
   ]
